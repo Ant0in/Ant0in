@@ -1,6 +1,6 @@
 
-<img src="./res/body/banner.png" alt="banner" width="100%" style="border:5px solid; border-color: #5BCEFA #FFFFFF #F5A9B8;" />
 
+<img src="./res/body/banner.svg" alt="banner" style="width: auto; height: auto; margin-top: 20px;"/>
 
 
 <h1 align="center">Hi, I'm Antoine / nowi! 👋</h1>
