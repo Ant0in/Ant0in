@@ -35,7 +35,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="[mail] antoine.berthion@gmail.com" height="30" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🔧</h3>
 <p align="left" style="display: flex; align-items: center; flex-wrap: wrap;">
     <a href="https://www.python.org/" target="_blank" style="margin: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/></a>
