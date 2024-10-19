@@ -8,7 +8,7 @@
             <li>🥖 Coming from France, born in Normandie but I mean... Breton avant tout! 🧈</li> 
             <li>🏆 Winner of Biggest European Hackathon in Cybersecurity (<a href="https://hackyeah.pl/" target="_blank">Hackyeah2024</a>) 🇵🇱</li>
             <li>🎮 Retired Geometry Dash top-player! Hardest is <a href="https://www.youtube.com/watch?v=gSUTZV04t38" target="_blank">Bloodlust</a> ❤️</li>
-            <li>📏 5"8 (176cm) - Pretty short but you'd be surprised how high I can jump! 🦘</li> 
+            <li>📏 5"8 (176cm) - Although I'm on the shorter side, I can jump surprisingly high! 🦘</li> 
             <li>🧶 I'll never admit it but... I am a cat lover. Here's an army of silly cats! 🐱</li> 
         </ul>
     </div>
