@@ -1,6 +1,6 @@
 
+<img src="./res/body/banner.png" alt="banner" width="100%" style="border:5px solid; border-color: #5BCEFA #FFFFFF #F5A9B8;" />
 
-<img src="./res/body/banner.png" alt="banner" style="width:100%; height:auto; margin-bottom: 20px; border: 5px solid; border-radius: 15px; padding: 3px; border-color: #5BCEFA #FFFFFF #F5A9B8;"/>
 
 
 <h1 align="center">Hi, I'm Antoine / nowi! 👋</h1>
@@ -72,4 +72,4 @@
         <img src="./res/icons/language/ffmpeg-original.svg" alt="ffmpeg" width="40" height="40" title="ffmpeg"/></a>
 </p>
 
-<img src="./res/body/footer.svg" alt="footer" style="width: 100%; height: auto; margin-top: 20px;" />
+<img src="./res/body/footer.svg" alt="footer" style="width: 100%; height: auto; margin-top: 20px;"/>
