@@ -9,17 +9,15 @@
             <li>🏆 Winner of Biggest European Hackathon in Cybersecurity (<a href="https://hackyeah.pl/" target="_blank">Hackyeah2024</a>) 🇵🇱</li>
             <li>🎮 Retired Geometry Dash top-player! Hardest is <a href="https://www.youtube.com/watch?v=gSUTZV04t38" target="_blank">Bloodlust</a> ❤️</li>
             <li>📏 5"8 (176cm) - Pretty short but you'd be surprised how high I can jump! 🦘</li> 
-            <li>🧶 I'll never admit it but... Cat lover. 🐱</li> 
+            <li>🧶 I'll never admit it but... I am a cat lover. Here's an army of silly cats! 🐱</li> 
         </ul>
     </div>
     <div style="flex: 0 0 auto;">
-        <img src="https://images.vexels.com/media/users/3/320109/isolated/preview/3c5bd5afae30fa42737e2945846cff64-cute-cat-in-pixel-art-style.png" alt="kat" width="50"/>
-        <img src="https://images.vexels.com/media/users/3/320109/isolated/preview/3c5bd5afae30fa42737e2945846cff64-cute-cat-in-pixel-art-style.png" alt="kat" width="50"/>
-        <img src="https://images.vexels.com/media/users/3/320109/isolated/preview/3c5bd5afae30fa42737e2945846cff64-cute-cat-in-pixel-art-style.png" alt="kat" width="50"/>
-        <img src="https://images.vexels.com/media/users/3/320109/isolated/preview/3c5bd5afae30fa42737e2945846cff64-cute-cat-in-pixel-art-style.png" alt="kat" width="50"/>
-        <img src="https://images.vexels.com/media/users/3/320109/isolated/preview/3c5bd5afae30fa42737e2945846cff64-cute-cat-in-pixel-art-style.png" alt="kat" width="50"/>
-        <img src="https://images.vexels.com/media/users/3/320109/isolated/preview/3c5bd5afae30fa42737e2945846cff64-cute-cat-in-pixel-art-style.png" alt="kat" width="50"/>
-        <img src="https://images.vexels.com/media/users/3/320109/isolated/preview/3c5bd5afae30fa42737e2945846cff64-cute-cat-in-pixel-art-style.png" alt="kat" width="50"/>
+        <img src="https://raw.githubusercontent.com/Ant0in/Ant0in/refs/heads/main/cat.png" alt="kat" width="50"/>
+        <img src="https://raw.githubusercontent.com/Ant0in/Ant0in/refs/heads/main/cat.png" alt="kat" width="50"/>
+        <img src="https://raw.githubusercontent.com/Ant0in/Ant0in/refs/heads/main/cat.png" alt="kat" width="50"/>
+        <img src="https://raw.githubusercontent.com/Ant0in/Ant0in/refs/heads/main/cat.png" alt="kat" width="50"/>
+        <img src="https://raw.githubusercontent.com/Ant0in/Ant0in/refs/heads/main/cat.png" alt="kat" width="50"/>
     </div>
 </div>
 
@@ -52,6 +50,6 @@
     <a href="https://git-scm.com/" target="_blank" style="margin: 5px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" title="git"/></a>
     <a href="https://www.ffmpeg.org/" target="_blank" style="margin: 5px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/FFmpeg_icon.svg" alt="ffmpeg" width="40" height="40" title="git"/></a>
+        <img src="https://raw.githubusercontent.com/Ant0in/Ant0in/refs/heads/main/ffmpeg.svg" alt="ffmpeg" width="40" height="40" title="git"/></a>
 </p>
 
