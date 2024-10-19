@@ -1,3 +1,8 @@
+
+<img src="./res/misc/banner.png" alt="banner" style="width:100%; height:auto; margin-bottom: 20px; border: 5px solid; border-radius: 15px; padding: 3px; border-color: #5BCEFA #FFFFFF #F5A9B8;"/>
+
+
+
 <h1 align="center">Hi, I'm Antoine / nowi! 👋</h1>
 <h2 align="left">💻 Computer Science student @ ULB 🎓</h2>
 
@@ -11,15 +16,11 @@
             <li>🏆 Winner of Biggest European Hackathon in Cybersecurity (<a href="https://hackyeah.pl/" target="_blank">Hackyeah2024</a>) 🇵🇱</li>
             <li>🎮 Retired Geometry Dash top-player! Hardest is <a href="https://www.youtube.com/watch?v=gSUTZV04t38" target="_blank">Bloodlust</a> ❤️</li>
             <li>📏 5"8 (176cm) - Although I'm on the shorter side, I can jump surprisingly high! 🦘</li> 
-            <li>🧶 I'll never admit it but... I am a cat lover. Here's an army of silly cats! 🐱</li> 
+            <li>🧶 I'll never admit it but... I am a cat lover, as you u-uhh might have guessed >__<" 🐱</li> 
         </ul>
     </div>
     <div style="flex: 0 0 auto;">
-        <img src="./res/misc/cat.png" alt="kat" width="50"/>
-        <img src="./res/misc/cat.png" alt="kat" width="50"/>
-        <img src="./res/misc/cat.png" alt="kat" width="50"/>
-        <img src="./res/misc/cat.png" alt="kat" width="50"/>
-        <img src="./res/misc/cat.png" alt="kat" width="50"/>
+        <img src="./res/misc/bouncy_cat.gif" alt="kat" width="50"/>
     </div>
 </div>
 
@@ -71,3 +72,4 @@
         <img src="./res/icons/language/ffmpeg-original.svg" alt="ffmpeg" width="40" height="40" title="ffmpeg"/></a>
 </p>
 
+<div style="width: 100%; height: 5px; background: linear-gradient(to right, #5BCEFA, #F5A9B8, #FFFFFF, #F5A9B8, #5BCEFA); margin-top: 20px;"></div>
