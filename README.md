@@ -1,22 +1,6 @@
 
 <!-- Header (kys coulnt import this as svg for some reason) -->
-<body>
-    <svg viewBox="0 0 2400 400" xmlns="http://www.w3.org/2000/svg" width="100%">
-    <defs>
-        <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color:#5BCEFA; stop-opacity:1" />
-            <stop offset="33%" style="stop-color:#FFFFFF; stop-opacity:1" />
-            <stop offset="66%" style="stop-color:#F5A9B8; stop-opacity:1" />
-            <stop offset="100%" style="stop-color:#5BCEFA; stop-opacity:1" />
-        </linearGradient>
-        <clipPath id="roundedImage">
-            <rect x="12" y="10" width="2373" height="380" rx="15" ry="15" />
-        </clipPath>
-    </defs>
-    <rect x="8" y="7" width="2381" height="387" rx="15" ry="15" fill="none" stroke="url(#borderGradient)" stroke-width="10"/>
-    <image href="./res/body/banner.png" x="12" y="10" width="2373" height="380" preserveAspectRatio="xMidYMid slice" clip-path="url(#roundedImage)" />
-</svg>
-</body>
+<img src="./res/body/banner.png" alt="footer" style="width: 100%; height: auto; margin-top: 20px;"/>
 
 <!-- Presentation -->
 <h1 align="center">Hi, I'm Antoine / nowi! 👋</h1>
