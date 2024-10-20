@@ -18,5 +18,5 @@
     <rect x="8" y="7" width="2381" height="387" rx="15" ry="15" fill="none" stroke="url(#borderGradient)" stroke-width="10"/>
 
     <!-- Image avec coins arrondis -->
-    <image href="./banner.png" x="12" y="10" width="2373" height="380" preserveAspectRatio="xMidYMid slice" clip-path="url(#roundedImage)" />
+    <image href="https://raw.githubusercontent.com/Ant0in/Ant0in/refs/heads/main/res/body/banner.png" x="12" y="10" width="2373" height="380" preserveAspectRatio="xMidYMid slice" clip-path="url(#roundedImage)" />
 </svg>
