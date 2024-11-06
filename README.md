@@ -31,7 +31,7 @@
     <a href="https://www.instagram.com/zantoine._/" target="_blank">
         <img align="center" src="./res/icons/social/instagram.svg" alt="[instagram] zantoine._" height="30" width="40"/></a>
     <!-- Discord -->
-    <a href="https://discord.com/users/zantoine_" target="_blank">
+    <a href="https://discord.com/users/443432007708442627" target="_blank">
         <img align="center" src="./res/icons/social/discord.svg" alt="[discord] zantoine_" height="30" width="40"/></a>
     <!-- Youtube -->
     <a href="https://www.youtube.com/@znowi" target="_blank">
