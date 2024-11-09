@@ -75,10 +75,10 @@
 <h3 align="left">Github stats 📊</h3>
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-top: 20px;">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=dark&show_icons=true&hide_border=false&layout=compact" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="stats" style="width: 100%; height: auto; margin-bottom: 20px;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="stats" style="width: auto; height: auto; margin-bottom: 20px;"/>
     </a>
     <a href="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=dark&show_icons=true&hide_border=false&count_private=true" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="commit" style="width: 100%; height: auto;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="commit" style="width: auto; height: auto;"/>
     </a>
 </div>
 
