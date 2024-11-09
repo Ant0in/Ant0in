@@ -71,4 +71,17 @@
         <img src="./res/icons/language/ffmpeg-original.svg" alt="ffmpeg" width="40" height="40" title="ffmpeg"/></a>
 </p>
 
+
+<h3 align="left">Github stats 📊</h3>
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-top: 20px;">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=dark&show_icons=true&hide_border=false&layout=compact" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="stats" style="width: 100%; height: auto; margin-bottom: 20px;"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=dark&show_icons=true&hide_border=false&count_private=true" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="commit" style="width: 100%; height: auto;"/>
+    </a>
+</div>
+
+
+
 <img src="./res/body/footer.svg" alt="footer" style="width: 100%; height: auto; margin-top: 20px;"/>
