@@ -76,11 +76,11 @@
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
     <!-- Most Used Language -->
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=dark&show_icons=true&hide_border=true&layout=compact" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Most Used Language" title="mul" style="width: 42%; height: auto; margin-right: 20px;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Most Used Language" title="mul" style="width: 42%; height: auto; margin-right: 20px;"/>
     </a>
     <!-- Github Stats -->
     <a href="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=dark&show_icons=true&count_private=true" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Github Stats" title="gs" style="width: 55%; height: auto;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Github Stats" title="gs" style="width: 56%; height: auto;"/>
     </a>
 </div>
 
