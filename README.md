@@ -6,6 +6,11 @@
 <h1 align="center">Hi, I'm Antoine / nowi! 👋</h1>
 <h2 align="left">💻 Computer Science student @ ULB 🎓</h2>
 
+<!-- Profile views badge, centered and close to titles -->
+<p align="center" style="margin-top: -10px; margin-bottom: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=Ant0in&color=FFC0CB&style=flat&abbreviated=true&base=100" alt="Profile views" />
+</p>
+
 <!-- Know me! -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="flex: 1; padding-right: 20px;">
@@ -44,7 +49,6 @@
         <img align="center" src="./res/icons/social/gmail.svg" alt="[mail] antoine.berthion@gmail.com" height="30" width="40"/></a>
 </p>
 
-
 <!-- Tools & Languages -->
 <h3 align="left">Languages and Tools 🔧</h3>
 <p align="left" style="display: flex; align-items: center; flex-wrap: wrap;">
@@ -75,14 +79,13 @@
 <h3 align="left">Github stats 📊</h3>
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
     <!-- Most Used Language -->
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=dark&show_icons=true&hide_border=true&layout=compact" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Most Used Language" title="mul" style="width: 42%; height: auto; margin-right: 20px;"/>
+    <a href="..." target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=synthwave&show_icons=true&hide_border=false&layout=compact" alt="Most Used Language" title="mul" style="width: 42%; height: auto; margin-right: 20px; outline: none; box-shadow: none;"/>
     </a>
     <!-- Github Stats -->
-    <a href="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=dark&show_icons=true&count_private=true" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Github Stats" title="gs" style="width: 56%; height: auto;"/>
+    <a href="..." target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=synthwave&show_icons=true&hide_border=false&count_private=true" alt="Github Stats" title="gs" style="width: 56%; height: auto; outline: none; box-shadow: none;"/>
     </a>
 </div>
-
 
 <img src="./res/body/footer.svg" alt="footer" style="width: 100%; height: auto; margin-top: 20px;"/>
