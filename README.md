@@ -83,9 +83,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant0in&theme=synthwave&show_icons=true&hide_border=false&layout=compact" alt="Most Used Language" title="mul" style="width: 42%; height: auto; margin-right: 20px; outline: none; box-shadow: none;"/>
     </a>
     <!-- Github Stats -->
-    <a href="..." target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ant0in&theme=synthwave&show_icons=true&hide_border=false&count_private=true" alt="Github Stats" title="gs" style="width: 56%; height: auto; outline: none; box-shadow: none;"/>
-    </a>
+    <!-- unavailable for now -->
 </div>
 
 <img src="./res/body/footer.svg" alt="footer" style="width: 100%; height: auto; margin-top: 20px;"/>
